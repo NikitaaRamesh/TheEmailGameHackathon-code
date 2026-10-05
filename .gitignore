@@ -12,3 +12,5 @@ session_results/
 agent_logs/
 current_game_*.json
 .orchestrator/
+data/greeted_flags.json
+src/tutorial.py
